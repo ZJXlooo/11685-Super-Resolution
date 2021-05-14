@@ -11,5 +11,5 @@ Running process:
 1. connect to google drive (change to your own path)
 2. determine the parameter in the args class
 3. run the training process and store the model in google drive
-4. run the test() to generate fake images in google drive
+4. load the best model and run the test() to generate fake images in google drive
 5. uses the scripts provided to calculate the PSNR/SSIM score for four sub-folders. 
